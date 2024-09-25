@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Print current date and time
+echo "Current Date and Time:"
+date
+
+# Print the calendar of the current month
+echo -e "\nCurrent Month Calendar:"
+cal
